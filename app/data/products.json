@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": "PROD505X",
+    "name": "QuantumBook Pro 15",
+    "category": "Electronics",
+    "warranty_period_months": 24
+  },
+  {
+    "product_id": "PROD600A",
+    "name": "Wireless Mouse G5",
+    "category": "Accessories",
+    "warranty_period_months": 12
+  }
+]

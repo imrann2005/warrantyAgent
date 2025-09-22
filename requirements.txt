@@ -1,0 +1,6 @@
+# Example requirements
+pytest
+langgraph
+langchain_core
+python-dotenv
+python-dateutil

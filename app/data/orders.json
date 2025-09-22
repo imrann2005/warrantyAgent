@@ -1,0 +1,21 @@
+[
+  {
+    "order_id": "ORD98765",
+    "customer_id": "CUST1001",
+    "order_date": "2024-08-01T14:30:00",
+    "items": [
+      {
+        "product_id": "PROD505X",
+        "product_name": "QuantumBook Pro 15",
+        "serial_number": "SNABC12345",
+        "price": 1499.99
+      },
+      {
+        "product_id": "PROD600A",
+        "product_name": "Wireless Mouse G5",
+        "serial_number": "SNXYZ98765",
+        "price": 49.99
+      }
+    ]
+  }
+]
