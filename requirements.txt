@@ -1,6 +1,9 @@
-# Example requirements
-pytest
 langgraph
 langchain_core
-python-dotenv
 python-dateutil
+python-dotenv
+langchain
+langchain-openai
+faiss-cpu
+tiktoken
+pydantic 

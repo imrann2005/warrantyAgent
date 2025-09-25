@@ -1,0 +1,10 @@
+[
+  {
+    "customer_id": "CUST1001",
+    "email": "123@gmail.com",
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    }
+  }
+]
